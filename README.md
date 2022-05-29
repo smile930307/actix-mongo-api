@@ -6,4 +6,4 @@ This repository shows the source code for building a REST API with Rust and Mong
 
 Article Link
 
-[Article Link](https://dev.to/hackmamba/build-a-rest-api-with-rust-and-mongodb-actix-web-version-ei1)
+[Article Link](https://medium.com/@smile0307/build-a-rest-api-with-rust-and-mongodb-actix-web-version-307f6176ccbe)
